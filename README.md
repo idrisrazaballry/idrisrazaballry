@@ -1,11 +1,18 @@
 <div align="center">
 
-# Hi there, I'm Idrisraza Ballary 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Idrisraza%20Ballary&fontSize=40&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
-### AI/ML Engineer · Full-Stack Developer · Builder of Intelligent Systems
+# Hi there 👋 I'm Idrisraza Ballary
+
+### 🤖 AI/ML Engineer &nbsp;·&nbsp; 🛠 Full-Stack Developer &nbsp;·&nbsp; 🚀 Builder of Intelligent Systems
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=RAG+Pipelines+%7C+LLM+Agents+%7C+Computer+Vision;Building+AI+that+actually+works+%F0%9F%A7%A0;Open+to+entry-level+AI%2FML+opportunities!)](https://git.io/typing-svg)
+
+<br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/idrisrazaballry?label=Follow&style=social)](https://github.com/idrisrazaballry)
-[![Profile Views](https://komarev.com/ghpvc/?username=idrisrazaballry&color=0e75b6&style=flat)](https://github.com/idrisrazaballry)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=idrisrazaballry&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/idrisrazaballry)
 
 </div>
 
@@ -13,56 +20,107 @@
 
 ## 🧠 About Me
 
-I'm a passionate developer focused on building AI-powered applications that solve real problems. I specialize in **Retrieval-Augmented Generation (RAG)**, **AI agents**, and **computer vision** — turning cutting-edge research into working products.
-
-- 🔭 Currently building intelligent document processing systems
-- 🌱 Exploring **LLM agents**, **multimodal AI**, and **agentic workflows**
-- 💬 Ask me about **RAG pipelines**, **LangChain**, **Python**, **TypeScript**
-- ⚡ Fun fact: I've made **526 contributions** in the last year and counting
+```python
+class Idrisraza:
+    name        = "Idrisraza Ballary"
+    degree      = "B.E. Computer Science & Engineering @ JNNCE (CGPA: 8.4)"
+    focus       = ["RAG Pipelines", "LLM Agents", "Computer Vision", "Generative AI"]
+    languages   = ["Python", "SQL", "C"]
+    frameworks  = ["LangChain", "TensorFlow", "PyTorch", "Scikit-Learn", "Streamlit"]
+    tools       = ["OpenCV", "MediaPipe", "FAISS", "Docker", "Git"]
+    experience  = ["AI Intern @ Plasmid Innovations", "Data Science Intern @ PySpiders"]
+    currently   = "Seeking entry-level AI/ML opportunities 🚀"
+    fun_fact    = "526 contributions in the last year and still shipping!"
+```
 
 ---
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🤖 [PDF Chatbot using RAG](https://github.com/idrisrazaballry/PDF-Chatbot-using-RAG)
-A conversational AI system that lets users chat with PDF documents using Retrieval-Augmented Generation. Built with Python, LangChain, and vector embeddings for accurate, context-aware answers.
 
-`Python` `LangChain` `RAG` `Vector DB` `LLM`
+RAG-based chatbot with **94% retrieval accuracy** for PDF Q&A. FAISS vector search delivers semantic results in under **100ms**.
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-### 🧩 [AI PDF Chatbot Agent](https://github.com/idrisrazaballry/AI-PDF-Chatbot-Agent)
-A TypeScript-based agentic chatbot for PDF interaction, featuring tool use, multi-step reasoning, and a clean frontend interface.
+</td>
+<td width="50%">
 
-`TypeScript` `AI Agents` `LLM` `REST API`
+### 📸 [AI Selfie Capture with AR](https://github.com/idrisrazaballry/AI-Powered-Selfie-Capture-With-Augmented-Reality)
 
----
+Real-time selfie system with **96%+ face detection accuracy** at 30 fps. AR filters applied in under **50ms** using MediaPipe.
 
-### 📸 [AI-Powered Selfie Capture with Augmented Reality](https://github.com/idrisrazaballry/AI-Powered-Selfie-Capture-With-Augmented-Reality)
-Real-time AR overlays on selfies using AI-driven face detection and computer vision. A creative blend of ML and interactive media.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat)
 
-`Python` `Computer Vision` `AR` `OpenCV` `Deep Learning`
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 **AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| ☁️ Oracle Cloud Infrastructure Generative AI Professional | Oracle |
+| 📊 Introduction to Data Science | Cisco Networking Academy |
+| 🌐 Cloud Computing and Distributed Systems | NPTEL |
+| 🐍 Programming in Python | Udemy |
+
+---
+
+## 💼 Experience
+
+**🔬 AI Intern — Plasmid Innovations** *(Remote)*
+> Supervised & unsupervised ML, model evaluation, Scikit-Learn workflows, classification & regression models
+
+**📈 Python with Data Science Intern — PySpiders**
+> Python, SQL querying, EDA with Pandas/NumPy/Matplotlib, statistical analysis & visualization
 
 ---
 
@@ -70,11 +128,17 @@ Real-time AR overlays on selfies using AI-driven face detection and computer vis
 
 <div align="center">
 
-![Idrisraza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idrisrazaballry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=idrisrazaballry&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idrisrazaballry&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisrazaballry&layout=compact&theme=tokyonight&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=idrisrazaballry&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=idrisrazaballry&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakLabel=58a6ff" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=idrisrazaballry&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -84,14 +148,14 @@ Real-time AR overlays on selfies using AI-driven face detection and computer vis
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/idrisrazaballry)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idrisraza-ballary-1410b6287/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idrisrazaballary7@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/idrisballary)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://6a40b09878eb7bc632b4d2c8--classy-swan-5cd919.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/idrisrazaballry)
 
-</div>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
 
-<div align="center">
-  <i>"Build with curiosity. Ship with intention."</i>
 </div>
