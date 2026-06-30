@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=120&section=header&text=Idrisraza%20Ballary&fontSize=40&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
-# Hi there 👋 I'm Idrisraza Ballary
+# Greetings 👋 I am Idrisraza Ballary
 
 ### 🤖 AI/ML Engineer &nbsp;·&nbsp; 🐍 Python Developer &nbsp;·&nbsp; 🎓 Computer Science Student
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Personal Background
 
 ```python
 class Idrisraza:
@@ -27,35 +27,35 @@ class Idrisraza:
     focus       = ["RAG Pipelines", "Computer Vision", "Generative AI"]
     languages   = ["Python", "SQL", "C"]
     frameworks  = ["LangChain", "TensorFlow", "PyTorch", "Scikit-Learn", "OpenCV"]
-    currently   = "Building real-world AI solutions & seeking an entry-level AI/ML role"
-    fun_fact    = "Built a RAG chatbot with 94% retrieval accuracy 📄⚡"
+    currently   = "Developing practical AI solutions & pursuing an entry-level AI/ML position"
+    fun_fact    = "Created a RAG chatbot achieving 94% retrieval accuracy 📄⚡"
 ```
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-**Python with Data Science Intern** · PySpiders
-Performed EDA on structured datasets using Pandas, NumPy and Matplotlib, and wrote SQL queries for data extraction to derive insights from data trends.
+**Data Science Intern with Python** · PySpiders
+Conducted exploratory data analysis (EDA) on structured datasets utilizing Pandas, NumPy, and Matplotlib, and formulated SQL queries for data extraction to uncover insights from data trends.
 
 **AI Intern** · Plasmid Innovations *(Remote)*
-Built and evaluated classification and regression models with Scikit-Learn, covering supervised/unsupervised learning, model evaluation, and feature engineering.
+Developed and assessed classification and regression models using Scikit-Learn, encompassing supervised and unsupervised learning, model evaluation, and feature engineering.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Highlighted Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [PDF Chatbot using RAG](https://github.com/idrisrazaballry/PDF-Chatbot-using-RAG)
-RAG-based chatbot for Q&A over PDFs.
+### 🤖 [PDF Chatbot Utilizing RAG](https://github.com/idrisrazaballry/PDF-Chatbot-using-RAG)
+A chatbot based on RAG designed for question and answer sessions over PDF documents.
 
-- ✅ **94% retrieval accuracy**
-- ⚡ FAISS semantic search in **under 100ms**
-- 💬 Streamlit UI for live Q&A sessions
-- 🔗 LangChain + LLMs for contextual answers
+- ✅ **94% accuracy in retrieval**
+- ⚡ FAISS semantic search completed in **less than 100ms**
+- 💬 Streamlit user interface for interactive Q&A sessions
+- 🔗 Integration of LangChain and LLMs for contextually relevant responses
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -65,13 +65,13 @@ RAG-based chatbot for Q&A over PDFs.
 </td>
 <td width="50%" valign="top">
 
-### 📸 [AI Selfie Capture with AR](https://github.com/idrisrazaballry/AI-Powered-Selfie-Capture-With-Augmented-Reality)
-Real-time AR selfie system with gesture-based capture.
+### 📸 [Augmented Reality Selfie Capture](https://github.com/idrisrazaballry/AI-Powered-Selfie-Capture-With-Augmented-Reality)
+A real-time augmented reality system for capturing selfies using gesture recognition.
 
-- ✅ **96%+ facial detection accuracy** at 30 FPS
-- 🎯 **89% fewer** false capture triggers
-- 🪄 AR filters aligned in **under 50ms** (MediaPipe)
-- 🔄 Smooth, responsive real-time pipeline
+- ✅ **Facial detection accuracy exceeding 96%** at 30 frames per second
+- 🎯 **89% reduction** in false capture activations
+- 🪄 AR filters applied in **under 50ms** (using MediaPipe)
+- 🔄 A seamless and responsive real-time processing pipeline
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
@@ -84,7 +84,7 @@ Real-time AR selfie system with gesture-based capture.
 <td colspan="2">
 
 ### 🧩 [AI PDF Chatbot Agent](https://github.com/idrisrazaballry/AI-PDF-Chatbot-Agent)
-Agentic PDF chatbot with multi-step reasoning and tool use, built in TypeScript with a clean frontend and REST API.
+An agent-based PDF chatbot featuring multi-step reasoning and tool utilization, developed in TypeScript with a streamlined frontend and RESTful API.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -96,18 +96,18 @@ Agentic PDF chatbot with multi-step reasoning and tool use, built in TypeScript 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**AI / ML / Data**
+**Artificial Intelligence / Machine Learning / Data Science**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -117,7 +117,7 @@ Agentic PDF chatbot with multi-step reasoning and tool use, built in TypeScript 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Tools**
+**Development Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -128,7 +128,7 @@ Agentic PDF chatbot with multi-step reasoning and tool use, built in TypeScript 
 
 ---
 
-## 🎓 Education
+## 🎓 Academic Background
 
 | Institution | Program | Score | Duration |
 |---|---|---|---|
@@ -166,7 +166,7 @@ Agentic PDF chatbot with multi-step reasoning and tool use, built in TypeScript 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
 <div align="center">
 
