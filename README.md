@@ -24,8 +24,8 @@ I'm a Computer Science Engineering student specializing in **AI and Machine Lear
 
 - 🎓 B.E. Computer Science Engineering, CGPA **8.4** — graduating May 2026
 - 🧪 Currently deepening my skills in **LLM agents, LangChain, and multimodal AI**
-- 💼 Two completed AI/Data Science internships (PySpiders, Plasmid Innovations)
-- 📫 Reach me at **idrisrazaballary7@gmail.com**
+- 💼 Two completed AI and Data Science internships ( Plasmid Innovations, PySpiders)
+- 📫 Reach me at **idrisrazaballary16@gmail.com**
 
 <br/>
 
