@@ -125,7 +125,7 @@ An interactive Power BI dashboard analysing sales performance, outlet trends, an
 
 `Power BI` `DAX` `Data Cleaning`
 
-[View repository →](https://github.com/idrisrazaballry/REPLACE-WITH-REPO)
+[View repository →]([https://github.com/idrisrazaballry/REPLACE-WITH-REPO](https://github.com/idrisrazaballry/BlinkIt-dashboard))
 
 </td>
 <td width="50%" valign="top">
@@ -135,7 +135,7 @@ Cleaned an HR dataset of 49,653 employee records — deduplicated on employee ID
 
 `Python` `Pandas` `Matplotlib` `Seaborn`
 
-[View repository →](https://github.com/idrisrazaballry/REPLACE-WITH-REPO)
+[View repository →]([https://github.com/idrisrazaballry/REPLACE-WITH-REPO](https://github.com/idrisrazaballry/pythonLibraries/blob/main/attrition.ipynb))
 
 </td>
 </tr>
@@ -147,7 +147,7 @@ Normalised a flat 9,994-row retail CSV into a four-table relational schema (cust
 
 `SQL` `SQLite` `Window Functions`
 
-[View repository →](https://github.com/idrisrazaballry/REPLACE-WITH-REPO)
+[View repository →]([https://github.com/idrisrazaballry/REPLACE-WITH-REPO](https://superstoresalesanalysis.streamlit.app/)
 
 <br/>
 
