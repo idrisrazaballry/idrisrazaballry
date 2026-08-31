@@ -138,6 +138,8 @@ An agentic chatbot for PDF interaction with multi-step reasoning and tool use, b
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 </td>
 </tr>
@@ -158,13 +160,15 @@ An agentic chatbot for PDF interaction with multi-step reasoning and tool use, b
 
 | Certification | Issuer | Date |
 |---|---|---|
-| Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle University | Oct 2025 |
-| Cloud Computing and Distributed Systems *(Elite, IIT Kanpur)* | NPTEL | Mar 2025 |
-| Introduction to Generative AI | Google Cloud / Simplilearn | Nov 2025 |
-| Generative AI Foundational Certificate Course | Udemy | Sep 2025 |
+| Microsoft Excel — Beginners to Advanced | SkillCourse | Jul 2026 |
+| 30 Days Power BI Micro Course | SkillCourse | Jul 2026 |
 | AI for Entrepreneurship | Intel / Skill India (NSDC) | May 2026 |
+| Introduction to Generative AI | Google Cloud / Simplilearn | Nov 2025 |
+| Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle University | Oct 2025 |
+| Generative AI Foundational Certificate Course | Udemy | Sep 2025 |
 | Introduction to Data Science | Cisco Networking Academy | Sep 2025 |
 | Programming in Python | Udemy | Aug 2025 |
+| Cloud Computing and Distributed Systems *(Elite, IIT Kanpur)* | NPTEL | Mar 2025 |
 
 **Skill badges:** HackerRank — Python (Basic), CSS (Basic)
 
