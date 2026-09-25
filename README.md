@@ -278,3 +278,4 @@ Normalised a flat 9,994-row retail CSV into a four-table relational schema (cust
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
+
