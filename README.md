@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f3460&height=180&section=header&text=Idrisraza%20Ballary&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%2FML%20%7C%20Data%20Analytics%20%7C%20Computer%20Science%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=0F3460&center=true&vCenter=true&width=680&lines=Building+real-world+AI%2FML+solutions;RAG+Pipelines+%E2%80%A2+Computer+Vision+%E2%80%A2+Generative+AI;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Python+Data+Analysis;Open+to+entry-level+AI%2FML+and+Data+Analyst+roles)](https://git.io/typing-svg)
